@@ -5,6 +5,8 @@ Bana Discord sunucumdan ulaşabilirsiniz.
 Discord Sunucum: https://discord.gg/VWzkpfPuFZ
 
 
+
+
 _KURULUM_
 
 İlk olarak `Settings/ayarlar.json`'da gerekli yerleri doldurun\n
