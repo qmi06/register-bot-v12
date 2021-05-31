@@ -1,9 +1,14 @@
-Selamlar ben qmi;\n
+Selamlar ben qmi;
 
-Bana Discord sunucumdan ulaşabilirsiniz.\n\n
-Discord Sunucum: https://discord.gg/VWzkpfPuFZ \n\n
+Bana Discord sunucumdan ulaşabilirsiniz.
 
-_KURULUM_\n
+Discord Sunucum: https://discord.gg/VWzkpfPuFZ
+
+
+_KURULUM_
+
 İlk olarak `Settings/ayarlar.json`'da gerekli yerleri doldurun\n
+
 Sonra `Settings/idler.json`'da gerekli yerleri doldurun\n
+
 Bunları yaptıktan sonra modülleri yükleyip kullanmaya başlayabilirsiniz sorununuz olursa discorddan ulaşırsınız.
